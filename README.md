@@ -16,7 +16,7 @@ import mime from 'sak/mime'
 
 ## Collections
 
-> < 250KB
+> < 150KB
 
 - [mitt](https://github.com/developit/mitt)
 - [mime](https://github.com/broofa/mime)
